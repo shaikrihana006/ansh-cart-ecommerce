@@ -1,0 +1,6 @@
+{
+  "name": "ANSH CART",
+  "description": "A modern online store focused on curated everyday lifestyle, workspace, and daily essential products with SQLite backend.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
